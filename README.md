@@ -1,2 +1,2 @@
 # OnePlusAIPainter
-Enable AI Painter for OnePlus OOS16
+Enable AI Painter for OnePlus 13 OOS16
