@@ -1,6 +1,6 @@
 id=OnePlusAIPainter
-name=OnePlus AI Painter (OP13)
-version=1.0.0
-versioncode=100
+name=OnePlus AI Painter
+version=2.0.0
+versioncode=200
 author=luigimak
-description=Enable AI Painter on OnePlus AI, only OP13 oos 16.0.3.501
+description=Enable AI Painter for OOS16 on OnePlus AI
